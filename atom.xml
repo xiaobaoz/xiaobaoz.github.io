@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.ipyker.com/"/>
-  <updated>2020-01-10T08:01:25.309Z</updated>
+  <updated>2020-01-14T01:36:29.303Z</updated>
   <id>https://www.ipyker.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.ipyker.com/2018/11/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html"/>
     <id>https://www.ipyker.com/2018/11/30/第一篇博客.html</id>
     <published>2018-11-30T09:30:00.000Z</published>
-    <updated>2020-01-10T08:01:25.309Z</updated>
+    <updated>2020-01-14T01:36:29.303Z</updated>
     
     <summary type="html">
     
@@ -45,8 +45,6 @@
       <category term="os" scheme="https://www.ipyker.com/tags/os/"/>
     
       <category term="java" scheme="https://www.ipyker.com/tags/java/"/>
-    
-      <category term="python" scheme="https://www.ipyker.com/tags/python/"/>
     
   </entry>
   
